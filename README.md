@@ -1,3 +1,5 @@
+<img src=".github/readme/capa.png" alt="Focus Launcher — launcher Android sem distrações">
+
 # Focus Launcher — versão de teste
 
 Launcher minimalista para Android, feito para reduzir o uso no piloto automático.
